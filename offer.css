@@ -1,0 +1,44 @@
+.section{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    overflow: hidden;
+}
+
+.data{
+    margin-right: -8%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 45%;
+}
+.data h5{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: -0px;
+    opacity: 0.8;
+}
+.data h1{
+    justify-content: flex-end;
+    margin: 0;
+    font-weight: 900;
+}
+.data p{
+    justify-content: flex-end;
+    opacity: 0.8;
+}
+.data button{
+    height: 3vh;
+    width: 12vw;
+    border: none;
+    background-color: none;
+    margin: 0;
+    font-weight: 500;
+    font-size: medium;
+}
+.photo img {
+    margin-left: -8%;
+}
