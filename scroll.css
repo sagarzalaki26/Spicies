@@ -1,0 +1,13 @@
+.custom-carousel {
+    width: 200px;
+    
+    height:100px;
+    margin: 0 auto;
+  }
+  
+  .carousel-inner img {
+    
+    object-fit: cover;
+  }
+
+ 
