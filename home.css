@@ -6,3 +6,7 @@
 .carousel-caption p,h5{
     margin-bottom: 110px;
 }
+.background-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
