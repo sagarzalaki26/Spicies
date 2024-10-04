@@ -1,0 +1,50 @@
+.footer {
+    display: flex;
+    align-items: center;
+    padding:30px;
+    justify-content: space-evenly;
+    border-bottom: 1px solid rgb(212, 207, 207);
+}
+.main{
+    margin:30px;
+    
+}
+
+.icon {
+    margin-right: 30px; 
+}
+
+.data {
+    margin-left:
+    display: flex;
+    flex-direction: column;
+}
+
+.headings{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+    padding: 20px;
+    border-bottom: 1px solid rgb(212, 207, 207);
+    
+}
+.cont{
+    display:flex;
+    flex-direction: column;
+}
+
+.last input{
+    height: 5vh;
+    width:30vw;
+    border:none;
+}
+.last1{
+    display: flex;
+    align-items: center;
+}
+
+.contain{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

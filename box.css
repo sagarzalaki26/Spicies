@@ -22,18 +22,18 @@ body {
     padding: 20px;
     color: white;
     text-align: center;
-    transition: transform 0.3s;url(../images/img.png)
+    transition: transform 0.3s;
 }
 
 .box1 {
-    background-image: url('../images/img.png');
+    background-image: url(images/img_06.webp);
     background-size: cover; 
     background-position: center; 
     height: 50vh; 
 }
 
 .box2 {
-    background-image:url(../images/img_04.webp);
+    background-image:url(images/img_04.webp);
     background-size: cover; 
     background-position: center; 
     height: 50vh; 
@@ -41,14 +41,14 @@ body {
 
 
 .box3 {
-    background-image:url(../images/img_07.webp);
+    background-image:url(images/img_07.webp);
     background-size: cover; 
     background-position: center; 
     height: 50vh; 
 }
 
 .box4 {
-    background-image:url(../images/img_08.webp);
+    background-image:url(images/img_08.webp);
     background-size: cover; 
     background-position: center; 
     height: 50vh; 
